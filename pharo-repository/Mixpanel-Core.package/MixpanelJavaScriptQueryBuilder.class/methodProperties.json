@@ -1,11 +1,8 @@
 {
 	"instance" : {
 		"mainFunctionTemplate" : "KazunoriUeda 4/2/2019 14:48",
-		"filterEventNameIsLoggedIn" : "KazunoriUeda 4/2/2019 14:25",
 		"groupByKey:value:" : "KazunoriUeda 4/2/2019 14:54",
 		"events" : "KazunoriUeda 4/2/2019 14:25",
-		"filterPlatformIsAuction" : "KazunoriUeda 4/2/2019 14:25",
-		"groupByDistinctIdReduceWithTime" : "KazunoriUeda 4/2/2019 14:54",
 		"filterBy:" : "KazunoriUeda 4/2/2019 14:53",
 		"expressions:" : "KazunoriUeda 4/2/2019 14:14",
 		"eventFrom:to:" : "KazunoriUeda 4/2/2019 14:44",
@@ -15,7 +12,5 @@
 		"filterByField:operator:value:" : "KazunoriUeda 4/2/2019 14:45",
 		"asString" : "KazunoriUeda 4/2/2019 14:56"
 	},
-	"class" : {
-		"latestAuctionLoginQueryFrom:to:" : "KazunoriUeda 4/2/2019 14:41"
-	}
+	"class" : { }
 }
