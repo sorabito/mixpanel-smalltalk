@@ -6,9 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"client",
-		"enableBasicAuthentication"
+		"baseUrl",
+		"url"
 	],
-	"name" : "MixpanelRestClient",
+	"name" : "MixpanelJQLUrl",
 	"type" : "normal"
 }

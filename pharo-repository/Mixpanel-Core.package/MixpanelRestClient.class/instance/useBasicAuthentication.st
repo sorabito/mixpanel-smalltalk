@@ -1,0 +1,3 @@
+accessing
+useBasicAuthentication
+	self enableBasicAuthentication: true

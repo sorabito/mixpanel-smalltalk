@@ -1,3 +1,10 @@
 private
 createRequest
-	^ ZnRequest empty.
+	| request |
+	request := ZnRequest empty.
+
+	self enableBasicAuthentication ifTrue: [
+		request setBasicAuthenticationUsername: self settings token password: ''.
+	].
+
+	^ request
