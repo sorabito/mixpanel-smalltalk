@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"enableTokenAuthentication" : "MasashiUmezawa 4/9/2019 12:09",
+		"useTokenAuthentication:" : "MasashiUmezawa 4/9/2019 12:08",
+		"token" : "MasashiUmezawa 4/9/2019 12:36",
+		"settings" : "MasashiUmezawa 4/9/2019 12:28",
+		"defaultHttpClient" : "MasashiUmezawa 4/9/2019 11:53",
+		"httpGet:" : "MasashiUmezawa 4/9/2019 12:03",
+		"settings:" : "MasashiUmezawa 4/9/2019 12:28",
+		"httpPost:contents:" : "MasashiUmezawa 4/9/2019 12:03",
+		"httpClient" : "MasashiUmezawa 4/9/2019 11:53",
+		"useTokenAuthentication" : "MasashiUmezawa 4/9/2019 12:08",
+		"createRequest" : "MasashiUmezawa 4/9/2019 12:35",
+		"httpRequest:url:customizedBy:" : "MasashiUmezawa 4/9/2019 12:29"
+	},
+	"class" : { }
+}

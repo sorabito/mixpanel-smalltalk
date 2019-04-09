@@ -1,3 +1,3 @@
 accessing
 client
-	^ client ifNil:[ client := MixpanelRestClient new ].
+	^ client ifNil:[ client := MixpanelClient new ].

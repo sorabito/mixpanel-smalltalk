@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MixpanelJqlObject",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"arguments",
+		"statements"
+	],
+	"name" : "MixpanelJqlFunction",
+	"type" : "normal"
+}
