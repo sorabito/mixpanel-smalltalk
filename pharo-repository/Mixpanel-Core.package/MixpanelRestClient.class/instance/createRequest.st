@@ -1,3 +1,0 @@
-private
-createRequest
-	^ ZnRequest empty.
