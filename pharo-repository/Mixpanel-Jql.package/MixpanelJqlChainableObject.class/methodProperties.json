@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"flatten" : "MasashiUmezawa 4/9/2019 16:13",
+		"groupBy:" : "MasashiUmezawa 4/9/2019 17:06",
+		"filter:" : "MasashiUmezawa 4/9/2019 17:07",
+		"sortAscBy:" : "MasashiUmezawa 4/9/2019 16:13",
+		"sortDescBy:" : "MasashiUmezawa 4/9/2019 16:13",
+		"call:" : "MasashiUmezawa 4/9/2019 16:13",
+		"groupBy:reducers:" : "MasashiUmezawa 4/9/2019 17:09"
+	},
+	"class" : { }
+}

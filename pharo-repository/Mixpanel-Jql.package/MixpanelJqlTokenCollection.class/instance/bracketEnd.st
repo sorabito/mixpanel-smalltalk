@@ -1,0 +1,3 @@
+actions
+bracketEnd
+	self add: '}'

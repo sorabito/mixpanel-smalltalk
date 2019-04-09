@@ -6,8 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"client"
+		"settings",
+		"httpClient",
+		"useTokenAuthentication"
 	],
-	"name" : "MixpanelRestClient",
+	"name" : "MixpanelClient",
 	"type" : "normal"
 }
