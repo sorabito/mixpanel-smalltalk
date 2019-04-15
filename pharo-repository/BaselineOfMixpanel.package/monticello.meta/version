@@ -1,1 +1,3 @@
-(name 'BaselineOfMixpanel-ShoYoshida.1' message 'Initial commit' id 'f1b9b2d5-233b-4ba9-8689-20385a30949a' date '3 April 2016' time '2:24:45.714338 pm' author 'ShoYoshida' ancestors () stepChildren ())
+(name 'BaselineOfMixpanel-KazunoriUeda.1554804565' message 'empty log message' id 'b5fa0e61-ec42-0d00-90f8-ee2f03803264' date '15 April 2019' time '2:08:25.32543 pm' author 'KazunoriUeda' ancestors ((name 'BaselineOfMixpanel-GitHub.1554804564' message 'Merge pull request #7 from sorabito/develop
+
+Develop' id 'efb6f766-32dd-5366-ae7b-bd42fb923e73' date '9 April 2019' time '10:09:24 am' author 'GitHub' ancestors () stepChildren ())) stepChildren ())
