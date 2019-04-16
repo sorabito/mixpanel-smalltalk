@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"flatten" : "KazunoriUeda 4/16/2019 17:26",
+		"groupBy:" : "MasashiUmezawa 4/9/2019 17:06",
+		"filter:" : "KazunoriUeda 4/16/2019 17:26",
+		"sortAscBy:" : "KazunoriUeda 4/16/2019 17:26",
+		"sortDescBy:" : "KazunoriUeda 4/16/2019 17:26",
+		"call:" : "KazunoriUeda 4/16/2019 17:24",
+		"groupBy:reducers:" : "KazunoriUeda 4/16/2019 17:26"
+	},
+	"class" : { }
+}

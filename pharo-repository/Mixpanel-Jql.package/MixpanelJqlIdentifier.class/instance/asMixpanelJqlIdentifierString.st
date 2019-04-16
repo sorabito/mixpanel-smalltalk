@@ -1,0 +1,3 @@
+printing
+asMixpanelJqlIdentifierString
+	^self asString 
