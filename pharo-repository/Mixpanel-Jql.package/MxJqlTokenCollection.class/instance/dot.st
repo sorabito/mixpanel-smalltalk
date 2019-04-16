@@ -1,0 +1,3 @@
+actions
+dot
+	^self add: '.'

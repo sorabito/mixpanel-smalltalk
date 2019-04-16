@@ -1,6 +1,6 @@
 converting
 tokenArray
 	| tokens |
-	tokens := MixpanelJqlTokenCollection new.
+	tokens := MxJqlTokenCollection new.
 	self tokensOn: tokens.
 	^tokens

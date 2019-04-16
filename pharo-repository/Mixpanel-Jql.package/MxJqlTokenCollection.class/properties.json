@@ -8,6 +8,6 @@
 	"instvars" : [
 		"items"
 	],
-	"name" : "MixpanelJqlTokenCollection",
+	"name" : "MxJqlTokenCollection",
 	"type" : "normal"
 }
