@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MxJqlIdentifier",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MxJqlProperties",
+	"type" : "normal"
+}

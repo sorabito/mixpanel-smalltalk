@@ -1,3 +1,3 @@
 adding
 addKey: key
-	self keys add: key asMixpanelJqlKey asJqlObject 
+	self keys add: key asJqlKey asJqlObject 
