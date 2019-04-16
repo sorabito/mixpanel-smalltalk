@@ -1,3 +1,0 @@
-printing
-tokensOnTransformation: tokens
-	self subclassResponsibility

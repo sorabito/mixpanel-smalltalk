@@ -1,3 +1,0 @@
-actions
-bracketBegin
-	self add: '{'

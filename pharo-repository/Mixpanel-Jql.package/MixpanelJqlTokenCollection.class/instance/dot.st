@@ -1,3 +1,0 @@
-actions
-dot
-	^self add: '.'
