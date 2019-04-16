@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MxJqlObject",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"event",
+		"label",
+		"selector"
+	],
+	"name" : "MxJqlEventSelector",
+	"type" : "normal"
+}

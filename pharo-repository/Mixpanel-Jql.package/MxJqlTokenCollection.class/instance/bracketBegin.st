@@ -1,0 +1,3 @@
+actions
+bracketBegin
+	self add: '{'

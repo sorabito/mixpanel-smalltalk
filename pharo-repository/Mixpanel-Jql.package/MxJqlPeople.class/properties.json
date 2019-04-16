@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MxJqlChainableObject",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"userSelectors"
+	],
+	"name" : "MxJqlPeople",
+	"type" : "normal"
+}
