@@ -1,3 +1,3 @@
 actions
 executeJql: jqlMainFunction
-	^ MixpanelJqlResult from: (self executeJqlString: jqlMainFunction jqlString)
+	^ MixpanelJqlResult from: (self executeJqlString: jqlMainFunction asMixpanelJqlString)

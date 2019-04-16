@@ -1,6 +1,6 @@
 actions
 executeJqlBy: mainCreationBlock
 	| main |
-	main := MxJqlMainFunction new.
+	main := MixpanelJqlMainFunction new.
 	mainCreationBlock value: main.
 	^self executeJql: main
