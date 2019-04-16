@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MxJqlTransformation",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"keys",
+		"reducers"
+	],
+	"name" : "MxJqlGroupBy",
+	"type" : "normal"
+}

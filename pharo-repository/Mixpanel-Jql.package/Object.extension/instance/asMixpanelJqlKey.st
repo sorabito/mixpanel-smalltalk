@@ -1,3 +1,3 @@
 *Mixpanel-Jql-converting
 asMixpanelJqlKey
-	^self asMixpanelJqlObject 
+	^self asJqlObject 

@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"asMixpanelJqlObject" : "KazunoriUeda 4/3/2019 19:09",
 		"jqlString" : "MasashiUmezawa 4/9/2019 17:26",
-		"asMixpanelJqlKey" : "MasashiUmezawa 4/9/2019 16:51",
-		"isMixpanelJqlObject" : "KazunoriUeda 4/3/2019 19:06",
-		"jqlTokenString" : "KazunoriUeda 4/3/2019 16:48"
+		"asMixpanelJqlKey" : "KazunoriUeda 4/16/2019 10:30",
+		"isJqlObject" : "KazunoriUeda 4/16/2019 10:31",
+		"jqlTokenString" : "KazunoriUeda 4/16/2019 10:31",
+		"asJqlObject" : "KazunoriUeda 4/16/2019 10:35"
 	},
 	"class" : { }
 }
