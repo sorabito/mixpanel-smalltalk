@@ -1,3 +1,0 @@
-actions
-enableTokenAuthentication
-	self useTokenAuthentication: true

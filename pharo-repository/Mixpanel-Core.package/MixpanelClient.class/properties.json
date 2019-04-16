@@ -8,7 +8,7 @@
 	"instvars" : [
 		"settings",
 		"httpClient",
-		"useTokenAuthentication"
+		"useApiSecretAuthentication"
 	],
 	"name" : "MixpanelClient",
 	"type" : "normal"
