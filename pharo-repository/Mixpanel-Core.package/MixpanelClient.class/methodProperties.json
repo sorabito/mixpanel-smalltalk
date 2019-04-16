@@ -1,7 +1,6 @@
 {
 	"instance" : {
-		"enableTokenAuthentication" : "MasashiUmezawa 4/9/2019 12:09",
-		"useTokenAuthentication:" : "MasashiUmezawa 4/9/2019 12:08",
+		"useApiSecretAuthentication" : "KazunoriUeda 4/16/2019 10:14",
 		"token" : "MasashiUmezawa 4/9/2019 12:36",
 		"settings" : "MasashiUmezawa 4/9/2019 12:28",
 		"defaultHttpClient" : "MasashiUmezawa 4/9/2019 11:53",
@@ -9,8 +8,10 @@
 		"settings:" : "MasashiUmezawa 4/9/2019 12:28",
 		"httpPost:contents:" : "MasashiUmezawa 4/9/2019 12:03",
 		"httpClient" : "MasashiUmezawa 4/9/2019 11:53",
-		"useTokenAuthentication" : "MasashiUmezawa 4/9/2019 12:08",
-		"createRequest" : "MasashiUmezawa 4/9/2019 12:35",
+		"enableApiSecretAuthentication" : "KazunoriUeda 4/16/2019 10:15",
+		"useApiSecretAuthentication:" : "KazunoriUeda 4/16/2019 10:14",
+		"createRequest" : "KazunoriUeda 4/16/2019 10:17",
+		"apiSecret" : "KazunoriUeda 4/16/2019 10:17",
 		"httpRequest:url:customizedBy:" : "MasashiUmezawa 4/9/2019 12:29"
 	},
 	"class" : { }

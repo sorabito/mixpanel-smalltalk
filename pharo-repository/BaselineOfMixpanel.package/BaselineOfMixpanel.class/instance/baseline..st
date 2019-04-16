@@ -7,4 +7,6 @@ baseline: spec
 			spec repository: 'http://mc.stfx.eu/Neo'. ].
 		spec 
 			package: 'Mixpanel-Core'.
+		spec 
+			package: 'Mixpanel-Jql'.
 	].
