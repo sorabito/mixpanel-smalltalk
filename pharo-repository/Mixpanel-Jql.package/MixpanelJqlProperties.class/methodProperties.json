@@ -1,7 +1,24 @@
 {
-	"instance" : { },
+	"instance" : {
+		">" : "KazunoriUeda 4/17/2019 12:21",
+		">=" : "KazunoriUeda 4/17/2019 12:21",
+		"operator:" : "KazunoriUeda 4/17/2019 12:01",
+		"equals:" : "KazunoriUeda 4/17/2019 12:23",
+		"isTrue" : "KazunoriUeda 4/17/2019 12:25",
+		"isFalse" : "KazunoriUeda 4/17/2019 12:26",
+		"prop:" : "KazunoriUeda 4/17/2019 11:56",
+		"notEquals:" : "KazunoriUeda 4/17/2019 12:28",
+		"operator:operand:" : "KazunoriUeda 4/17/2019 12:18",
+		"operator" : "KazunoriUeda 4/17/2019 12:01",
+		"operand:" : "KazunoriUeda 4/17/2019 12:01",
+		"<" : "KazunoriUeda 4/17/2019 12:21",
+		"<=" : "KazunoriUeda 4/17/2019 12:21",
+		"operand" : "KazunoriUeda 4/17/2019 12:01",
+		"tokensOn:" : "KazunoriUeda 4/17/2019 12:13"
+	},
 	"class" : {
 		"of:" : "KazunoriUeda 4/16/2019 12:39",
-		"prop:" : "KazunoriUeda 4/16/2019 12:41"
+		"prop:" : "KazunoriUeda 4/16/2019 12:41",
+		"of:prop:" : "KazunoriUeda 4/17/2019 11:51"
 	}
 }
