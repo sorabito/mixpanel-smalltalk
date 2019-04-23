@@ -9,7 +9,8 @@
 		"token",
 		"identify",
 		"client",
-		"useIpAddress"
+		"useIpAddress",
+		"distinctId"
 	],
 	"name" : "MixpanelEvent",
 	"type" : "normal"

@@ -1,15 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "MixpanelJqlChainableObject",
+	"super" : "MixpanelJqlObject",
 	"category" : "Mixpanel-Jql",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"events",
-		"people",
-		"options"
+		"type",
+		"selectors"
 	],
-	"name" : "MixpanelJqlJoin",
+	"name" : "MixpanelJqlJoinOption",
 	"type" : "normal"
 }

@@ -1,7 +1,11 @@
 {
 	"instance" : {
-		"selector" : "KazunoriUeda 4/8/2019 15:45",
 		"selector:" : "KazunoriUeda 4/16/2019 17:27",
+		"emailEquals:" : "MasashiUmezawa 4/23/2019 18:33",
+		"lastSeenGreaterThan:" : "MasashiUmezawa 4/23/2019 19:05",
+		"selector" : "KazunoriUeda 4/8/2019 15:45",
+		"distinctIdEquals:" : "MasashiUmezawa 4/23/2019 19:10",
+		"lastSeenLessThan:" : "MasashiUmezawa 4/23/2019 19:06",
 		"tokensOn:" : "KazunoriUeda 4/8/2019 15:47"
 	},
 	"class" : { }
