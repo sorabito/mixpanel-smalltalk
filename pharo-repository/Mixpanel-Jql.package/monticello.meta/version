@@ -1,3 +1,3 @@
-(name 'Mixpanel-Jql-KazunoriUeda.1555403890' message 'empty log message' id 'f8ee5a3d-1343-0d00-9b37-18b905d5407a' date '17 April 2019' time '12:30:10.047845 pm' author 'KazunoriUeda' ancestors ((name 'Mixpanel-Jql-GitHub.1555403889' message 'Merge pull request #15 from sorabito/develop
+(name 'Mixpanel-Jql-MasashiUmezawa.1555485477' message 'empty log message' id 'b9c2fc96-9143-0d00-a2f0-3c990948bc66' date '23 April 2019' time '7:14:39.7051 pm' author 'MasashiUmezawa' ancestors ((name 'Mixpanel-Jql-MasashiUmezawa.1555485476' message 'empty log message' id '9c0fc34d-9043-0d00-a2ed-fac80948bc66' date '23 April 2019' time '5:42:36.219564 pm' author 'MasashiUmezawa' ancestors ((name 'Mixpanel-Jql-CompatibleUserName.1555485475' message 'Merge pull request #17 from sorabito/develop
 
-Develop' id '1fc1a5c2-0350-5855-b379-a56902c6d77c' date '16 April 2019' time '8:38:09 am' author 'GitHub' ancestors () stepChildren ())) stepChildren ())
+Develop' id 'f12cb365-109c-5a68-92ee-aa5791f397d1' date '17 April 2019' time '7:17:55 am' author 'CompatibleUserName' ancestors () stepChildren ())) stepChildren ())) stepChildren ())
