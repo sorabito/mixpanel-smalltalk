@@ -1,11 +1,11 @@
 printing
 tokensOn: tokens
 	tokens add: 'People'; parenBegin.
-	(self userSelectors size > 0) ifTrue: [
+	self userSelectors ifNotEmpty: [:col |
 		tokens bracketBegin.
 		tokens add: 'user_selectors: '.
 		tokens squareBegin.
-		self userSelectors tokensOn: tokens.
+		col tokensOn: tokens.
 		tokens squareEnd.
 		tokens bracketEnd.
 	].

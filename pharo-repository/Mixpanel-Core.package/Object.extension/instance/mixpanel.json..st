@@ -1,3 +1,3 @@
 *Mixpanel-Core
 mixpanel: eventName json: aJson
-	self mixpanel: eventName identify: nil json: aJson
+	self mixpanel: eventName id: nil json: aJson

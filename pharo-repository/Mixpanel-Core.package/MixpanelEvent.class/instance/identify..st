@@ -1,3 +1,3 @@
-accessing
+accessing-obsolete
 identify: anObject
-	identify := anObject
+	self distinctId: anObject

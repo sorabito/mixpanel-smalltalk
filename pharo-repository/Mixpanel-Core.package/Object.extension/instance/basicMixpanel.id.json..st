@@ -1,9 +1,9 @@
 *Mixpanel-Core
-basicMixpanel: eventName identify: identifyString json: aJson
+basicMixpanel: eventName id: identifyString json: aJson
 	[ | tracker resp |
 	tracker := MixpanelTracker new.
 	identifyString isEmptyOrNil
-		ifFalse: [ tracker identify: identifyString ].
+		ifFalse: [ tracker distinctId: identifyString ].
 	resp := tracker track: eventName properties: aJson.
 	resp isError
 		ifTrue: [ self handleMixpanelErrorResponse: resp ] ]
