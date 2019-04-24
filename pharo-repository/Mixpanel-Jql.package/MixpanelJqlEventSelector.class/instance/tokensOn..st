@@ -3,13 +3,13 @@ tokensOn: tokens
 	tokens bracketBegin.
 	
 	self event tokensOn: tokens.
-	self label ifNotEmptyOrNilDo: [
+	self label ifNotNil: [:lbl |
 		tokens add: ', '.
-		self label tokensOn: tokens.
+		lbl tokensOn: tokens.
 	].
-	self selector ifNotEmptyOrNilDo: [
+	self selector ifNotNil: [:sele |
 		tokens add: ', '.
-		self selector tokensOn: tokens.
+		sele tokensOn: tokens.
 	].
 	tokens bracketEnd.
 	
