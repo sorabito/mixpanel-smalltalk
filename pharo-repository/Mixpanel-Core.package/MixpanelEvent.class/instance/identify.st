@@ -1,3 +1,3 @@
-accessing
+accessing-obsolete
 identify
-	^ identify ifNil:[ identify := '' ]
+	^ self distinctId
