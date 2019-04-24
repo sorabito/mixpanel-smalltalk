@@ -1,12 +1,15 @@
 {
 	"instance" : {
-		"flatten" : "KazunoriUeda 4/16/2019 17:26",
-		"groupBy:" : "MasashiUmezawa 4/9/2019 17:06",
-		"filter:" : "KazunoriUeda 4/16/2019 17:26",
-		"sortAscBy:" : "KazunoriUeda 4/16/2019 17:26",
-		"sortDescBy:" : "KazunoriUeda 4/16/2019 17:26",
+		"groupByUser:" : "MasashiUmezawa 4/24/2019 09:33",
 		"call:" : "KazunoriUeda 4/16/2019 17:24",
-		"groupBy:reducers:" : "KazunoriUeda 4/16/2019 17:26"
+		"filter:" : "KazunoriUeda 4/16/2019 17:26",
+		"sortDescBy:" : "KazunoriUeda 4/16/2019 17:26",
+		"reduce:" : "MasashiUmezawa 4/24/2019 10:00",
+		"sortAscBy:" : "KazunoriUeda 4/16/2019 17:26",
+		"groupBy:" : "MasashiUmezawa 4/9/2019 17:06",
+		"groupBy:reducers:" : "KazunoriUeda 4/16/2019 17:26",
+		"groupByUser:reducers:" : "MasashiUmezawa 4/24/2019 11:04",
+		"flatten" : "KazunoriUeda 4/16/2019 17:26"
 	},
 	"class" : { }
 }

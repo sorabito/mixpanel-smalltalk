@@ -1,4 +1,4 @@
 printing
 tokensOn: tokens
 	self identifier tokensOn: tokens.
-	self tokensOnTransformation: tokens.
+	self tokensTransformationOn: tokens.

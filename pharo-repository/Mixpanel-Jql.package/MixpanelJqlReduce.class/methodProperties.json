@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"addReducers:" : "MasashiUmezawa 4/24/2019 09:58",
+		"addReducer:" : "MasashiUmezawa 4/24/2019 09:57",
+		"reducers" : "MasashiUmezawa 4/24/2019 09:58",
+		"tokensTransformationOn:" : "MasashiUmezawa 4/24/2019 11:01",
+		"reducers:" : "MasashiUmezawa 4/24/2019 09:47",
+		"tokensReducersOn:" : "MasashiUmezawa 4/24/2019 11:01"
+	},
+	"class" : {
+		"objectMerge" : "MasashiUmezawa 4/24/2019 11:35",
+		"top:" : "MasashiUmezawa 4/24/2019 10:05",
+		"maxBy:" : "MasashiUmezawa 4/24/2019 10:06",
+		"any" : "KazunoriUeda 4/16/2019 17:25",
+		"average:" : "MasashiUmezawa 4/24/2019 10:06",
+		"minBy:" : "MasashiUmezawa 4/24/2019 10:06",
+		"count" : "KazunoriUeda 4/16/2019 17:25",
+		"numericSummary:" : "MasashiUmezawa 4/24/2019 11:14",
+		"null" : "KazunoriUeda 4/16/2019 17:25",
+		"min:" : "MasashiUmezawa 4/24/2019 10:06",
+		"reducers:" : "MasashiUmezawa 4/24/2019 09:57",
+		"max:" : "MasashiUmezawa 4/24/2019 10:06"
+	}
+}

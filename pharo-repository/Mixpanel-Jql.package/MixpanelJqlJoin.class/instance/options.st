@@ -1,3 +1,3 @@
 accessing
 options
-	^ options ifNil: [ options := MixpanelJqlObjects new ]
+	^ options ifNil: [ options := MixpanelJqlJoinOptions new ]
