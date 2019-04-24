@@ -1,15 +1,17 @@
 {
 	"instance" : {
-		"options" : "MasashiUmezawa 4/23/2019 16:12",
+		"options" : "MasashiUmezawa 4/24/2019 11:41",
 		"people:" : "MasashiUmezawa 4/23/2019 15:49",
 		"people" : "MasashiUmezawa 4/23/2019 15:49",
+		"beFull" : "MasashiUmezawa 4/24/2019 12:44",
 		"events" : "MasashiUmezawa 4/23/2019 15:49",
-		"addOption:selectors:" : "MasashiUmezawa 4/23/2019 16:15",
-		"addOption:selector:" : "MasashiUmezawa 4/23/2019 16:59",
+		"beLeft" : "MasashiUmezawa 4/24/2019 12:44",
 		"options:" : "MasashiUmezawa 4/23/2019 15:49",
-		"addSelectors:" : "MasashiUmezawa 4/23/2019 16:16",
+		"beInner" : "MasashiUmezawa 4/24/2019 12:43",
+		"addSelector:" : "MasashiUmezawa 4/24/2019 12:49",
 		"events:" : "MasashiUmezawa 4/23/2019 15:49",
-		"tokensOn:" : "MasashiUmezawa 4/23/2019 16:26"
+		"tokensOn:" : "MasashiUmezawa 4/24/2019 12:40",
+		"beRight" : "MasashiUmezawa 4/24/2019 12:43"
 	},
 	"class" : {
 		"events:people:" : "MasashiUmezawa 4/23/2019 16:21"

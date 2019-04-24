@@ -4,8 +4,6 @@ tokensOn: tokens
 	self events tokensOn: tokens.
 	tokens comma.
 	self people tokensOn: tokens.
-	self options ifNotEmpty: [ :col |
-		tokens comma.
-		col tokensOn: tokens.	
-	].
+	tokens comma.
+	self options tokensOn: tokens.
 	tokens parenEnd
