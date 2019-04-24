@@ -1,3 +1,3 @@
 printing
-tokensOnTransformation: tokens
+tokensTransformationOn: tokens
 	self subclassResponsibility

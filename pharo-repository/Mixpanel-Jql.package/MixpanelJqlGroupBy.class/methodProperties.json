@@ -1,16 +1,17 @@
 {
 	"instance" : {
+		"keys:" : "MasashiUmezawa 4/9/2019 16:27",
+		"addKey:" : "KazunoriUeda 4/16/2019 17:27",
 		"addKeys:" : "MasashiUmezawa 4/9/2019 16:44",
-		"addReducers:" : "MasashiUmezawa 4/9/2019 16:45",
+		"tokensTransformationOn:" : "MasashiUmezawa 4/24/2019 10:59",
+		"tokensReducersOn:" : "MasashiUmezawa 4/24/2019 11:00",
+		"keys" : "KazunoriUeda 4/16/2019 17:25",
+		"reducers:" : "MasashiUmezawa 4/9/2019 16:27",
 		"addReducer:" : "KazunoriUeda 4/16/2019 17:27",
 		"reducers" : "KazunoriUeda 4/16/2019 17:25",
-		"addKey:" : "KazunoriUeda 4/16/2019 17:27",
-		"tokensOnTransformation:" : "MasashiUmezawa 4/9/2019 17:03",
-		"reducers:" : "MasashiUmezawa 4/9/2019 16:27",
-		"keys:" : "MasashiUmezawa 4/9/2019 16:27",
-		"keys" : "KazunoriUeda 4/16/2019 17:25"
+		"addReducers:" : "MasashiUmezawa 4/9/2019 16:45"
 	},
 	"class" : {
-		"keys:reducers:" : "MasashiUmezawa 4/9/2019 17:08"
+		"keys:reducers:" : "MasashiUmezawa 4/24/2019 10:56"
 	}
 }

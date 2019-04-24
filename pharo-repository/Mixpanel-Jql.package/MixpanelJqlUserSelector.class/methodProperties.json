@@ -1,8 +1,14 @@
 {
 	"instance" : {
-		"selector" : "KazunoriUeda 4/8/2019 15:45",
+		"tokensOn:" : "KazunoriUeda 4/8/2019 15:47",
 		"selector:" : "KazunoriUeda 4/16/2019 17:27",
-		"tokensOn:" : "KazunoriUeda 4/8/2019 15:47"
+		"timeLessThan:" : "MasashiUmezawa 4/24/2019 12:59",
+		"emailEquals:" : "MasashiUmezawa 4/23/2019 18:33",
+		"lastSeenGreaterThan:" : "MasashiUmezawa 4/23/2019 19:05",
+		"selector" : "KazunoriUeda 4/8/2019 15:45",
+		"distinctIdEquals:" : "MasashiUmezawa 4/23/2019 19:10",
+		"lastSeenLessThan:" : "MasashiUmezawa 4/23/2019 19:06",
+		"timeGreaterThan:" : "MasashiUmezawa 4/24/2019 12:58"
 	},
 	"class" : { }
 }

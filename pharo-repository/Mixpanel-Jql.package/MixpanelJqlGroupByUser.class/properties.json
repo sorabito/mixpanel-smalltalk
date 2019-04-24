@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MixpanelJqlGroupBy",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MixpanelJqlGroupByUser",
+	"type" : "normal"
+}

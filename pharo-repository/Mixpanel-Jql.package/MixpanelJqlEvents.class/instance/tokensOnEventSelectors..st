@@ -1,9 +1,9 @@
 printing
 tokensOnEventSelectors: tokens
-	(self eventSelectors size > 0) ifTrue: [
+	self eventSelectors ifNotEmpty:[:col |
 		tokens add: ', ';
-			add: 'event_selectors : '.
+			add: 'event_selectors: '.
 		tokens squareBegin.
-		self eventSelectors tokensOn: tokens.
+		col tokensOn: tokens.
 		tokens squareEnd.
 	].

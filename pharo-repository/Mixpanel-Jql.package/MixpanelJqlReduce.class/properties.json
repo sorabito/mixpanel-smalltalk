@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MixpanelJqlTransformation",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reducers"
+	],
+	"name" : "MixpanelJqlReduce",
+	"type" : "normal"
+}

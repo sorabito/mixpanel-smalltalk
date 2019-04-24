@@ -1,11 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "MixpanelJqlTransformation",
+	"super" : "MixpanelJqlObject",
 	"category" : "Mixpanel-Jql",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "MixpanelJqlReducer",
+	"instvars" : [
+		"type",
+		"selectors"
+	],
+	"name" : "MixpanelJqlJoinOptions",
 	"type" : "normal"
 }

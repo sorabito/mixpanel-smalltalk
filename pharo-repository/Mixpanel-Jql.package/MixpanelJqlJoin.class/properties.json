@@ -5,7 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"events",
+		"people",
+		"options"
+	],
 	"name" : "MixpanelJqlJoin",
 	"type" : "normal"
 }
