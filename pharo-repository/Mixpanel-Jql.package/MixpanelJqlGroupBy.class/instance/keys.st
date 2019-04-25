@@ -1,3 +1,3 @@
 accessing
 keys
-	^ keys ifNil: [ keys := MixpanelJqlObjects new]
+	^ keys ifNil: [ keys := MixpanelJqlKeys new]

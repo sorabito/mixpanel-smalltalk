@@ -5,10 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"operator",
-		"operand"
-	],
+	"instvars" : [ ],
 	"name" : "MixpanelJqlProperties",
 	"type" : "normal"
 }
