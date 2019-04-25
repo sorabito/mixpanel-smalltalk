@@ -1,0 +1,3 @@
+concatenating
+--> acc
+	^self ,  acc

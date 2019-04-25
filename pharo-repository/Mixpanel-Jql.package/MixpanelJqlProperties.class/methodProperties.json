@@ -1,24 +1,15 @@
 {
 	"instance" : {
-		">" : "KazunoriUeda 4/17/2019 12:21",
-		">=" : "KazunoriUeda 4/17/2019 12:21",
-		"operator:" : "KazunoriUeda 4/17/2019 12:01",
-		"equals:" : "KazunoriUeda 4/17/2019 12:23",
-		"isTrue" : "KazunoriUeda 4/17/2019 12:25",
-		"isFalse" : "KazunoriUeda 4/17/2019 12:26",
-		"prop:" : "KazunoriUeda 4/17/2019 11:56",
-		"notEquals:" : "KazunoriUeda 4/17/2019 12:28",
-		"operator:operand:" : "KazunoriUeda 4/17/2019 12:18",
-		"operator" : "KazunoriUeda 4/17/2019 12:01",
-		"operand:" : "KazunoriUeda 4/17/2019 12:01",
-		"<" : "KazunoriUeda 4/17/2019 12:21",
-		"<=" : "KazunoriUeda 4/17/2019 12:21",
-		"operand" : "KazunoriUeda 4/17/2019 12:01",
-		"tokensOn:" : "KazunoriUeda 4/17/2019 12:13"
+		"isMixpanelJqlProperties" : "MasashiUmezawa 4/25/2019 15:29",
+		"properties" : "MasashiUmezawa 4/25/2019 12:04",
+		"propertyAt:" : "MasashiUmezawa 4/25/2019 11:54",
+		"asMixpanelJqlKey" : "MasashiUmezawa 4/25/2019 14:43"
 	},
 	"class" : {
-		"of:" : "KazunoriUeda 4/16/2019 12:39",
-		"prop:" : "KazunoriUeda 4/16/2019 12:41",
-		"of:prop:" : "KazunoriUeda 4/17/2019 11:51"
+		"tupleUserProp:" : "MasashiUmezawa 4/25/2019 12:02",
+		"tupleEventProp:" : "MasashiUmezawa 4/25/2019 12:03",
+		"prop:" : "MasashiUmezawa 4/25/2019 09:55",
+		"eventProp:" : "MasashiUmezawa 4/25/2019 11:56",
+		"userProp:" : "MasashiUmezawa 4/25/2019 11:56"
 	}
 }

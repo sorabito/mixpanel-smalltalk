@@ -1,11 +1,12 @@
 {
 	"instance" : {
-		"keys:" : "MasashiUmezawa 4/9/2019 16:27",
+		"tokensKeys:on:" : "MasashiUmezawa 4/25/2019 15:10",
+		"keys:" : "MasashiUmezawa 4/25/2019 15:17",
 		"addKey:" : "KazunoriUeda 4/16/2019 17:27",
 		"addKeys:" : "MasashiUmezawa 4/9/2019 16:44",
-		"tokensTransformationOn:" : "MasashiUmezawa 4/24/2019 10:59",
 		"tokensReducersOn:" : "MasashiUmezawa 4/24/2019 11:00",
-		"keys" : "KazunoriUeda 4/16/2019 17:25",
+		"tokensTransformationOn:" : "MasashiUmezawa 4/25/2019 14:53",
+		"keys" : "MasashiUmezawa 4/25/2019 15:21",
 		"reducers:" : "MasashiUmezawa 4/9/2019 16:27",
 		"addReducer:" : "KazunoriUeda 4/16/2019 17:27",
 		"reducers" : "KazunoriUeda 4/16/2019 17:25",

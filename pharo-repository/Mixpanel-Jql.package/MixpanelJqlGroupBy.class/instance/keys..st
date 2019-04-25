@@ -1,3 +1,3 @@
 accessing
 keys: anObject
-	keys := anObject
+	keys := MixpanelJqlKeys withAll: anObject

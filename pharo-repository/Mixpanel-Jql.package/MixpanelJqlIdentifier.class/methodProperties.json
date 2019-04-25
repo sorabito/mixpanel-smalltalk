@@ -1,15 +1,31 @@
 {
 	"instance" : {
-		"accessor" : "KazunoriUeda 4/4/2019 09:56",
-		"asMixpanelJqlIdentifierString" : "KazunoriUeda 4/16/2019 17:31",
-		"tokensAccessorOn:" : "KazunoriUeda 4/16/2019 17:27",
-		"prop:" : "KazunoriUeda 4/17/2019 11:57",
+		"||" : "MasashiUmezawa 4/25/2019 14:22",
+		"createPredicate:rightOperand:" : "MasashiUmezawa 4/25/2019 13:51",
+		"===" : "MasashiUmezawa 4/25/2019 12:26",
+		"tokensAccessorOn:" : "MasashiUmezawa 4/25/2019 11:31",
+		">" : "MasashiUmezawa 4/25/2019 12:29",
+		"<" : "MasashiUmezawa 4/25/2019 12:29",
+		"<=" : "MasashiUmezawa 4/25/2019 12:29",
+		"prop:" : "MasashiUmezawa 4/25/2019 10:05",
+		"&&" : "MasashiUmezawa 4/25/2019 14:21",
+		">=" : "MasashiUmezawa 4/25/2019 12:29",
+		"-->" : "MasashiUmezawa 4/25/2019 11:33",
+		"notEquals:" : "MasashiUmezawa 4/25/2019 12:26",
 		"identifier:" : "KazunoriUeda 4/16/2019 17:23",
-		"accessor:" : "KazunoriUeda 4/4/2019 09:56",
-		"tokensOn:" : "KazunoriUeda 4/16/2019 17:31"
+		"accessor:" : "MasashiUmezawa 4/25/2019 11:35",
+		"asMixpanelJqlIdentifierString" : "KazunoriUeda 4/16/2019 17:31",
+		"tokensOn:" : "KazunoriUeda 4/16/2019 17:31",
+		"equals:" : "MasashiUmezawa 4/25/2019 12:26",
+		"!==" : "MasashiUmezawa 4/25/2019 12:26",
+		"accessor" : "KazunoriUeda 4/4/2019 09:56"
 	},
 	"class" : {
+		"props" : "MasashiUmezawa 4/25/2019 09:53",
 		"of:" : "KazunoriUeda 4/3/2019 19:15",
-		"of:prop:" : "KazunoriUeda 4/16/2019 12:32"
+		"of:prop:" : "MasashiUmezawa 4/25/2019 10:06",
+		"user" : "MasashiUmezawa 4/25/2019 09:51",
+		"tuple" : "MasashiUmezawa 4/25/2019 09:51",
+		"event" : "MasashiUmezawa 4/25/2019 09:51"
 	}
 }
