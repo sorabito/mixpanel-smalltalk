@@ -6,5 +6,5 @@ tokensOn: tokens
 	self arguments tokensOn: tokens.
 	tokens parenEnd.
 	tokens bracketBegin.
-	self statements tokensOn: tokens.
+	self tokensStatementsOn: tokens.
 	tokens bracketEnd.
