@@ -1,20 +1,24 @@
 {
 	"instance" : {
-		"region:" : "ShoYoshida 4/3/2016 11:16",
-		"os:" : "ShoYoshida 4/2/2016 16:46",
-		"referrer:" : "ShoYoshida 4/2/2016 16:46",
-		"searchEngine:" : "ShoYoshida 4/3/2016 11:15",
 		"browser:" : "ShoYoshida 4/2/2016 16:45",
-		"initialReferrer:" : "ShoYoshida 4/3/2016 13:37",
 		"browserVersion:" : "ShoYoshida 4/2/2016 16:47",
 		"referringDomain:" : "ShoYoshida 4/2/2016 16:47",
-		"screenHeight:" : "ShoYoshida 4/2/2016 16:47",
 		"device:" : "ShoYoshida 4/2/2016 16:47",
-		"initialReferringDomain:" : "ShoYoshida 4/3/2016 13:37",
-		"country:" : "ShoYoshida 4/3/2016 11:14",
 		"city:" : "ShoYoshida 4/3/2016 11:16",
+		"initialReferringDomain:" : "ShoYoshida 4/3/2016 13:37",
+		"initialReferrer:" : "ShoYoshida 4/3/2016 13:37",
+		"region:" : "ShoYoshida 4/3/2016 11:16",
+		"distinctId" : "MasashiUmezawa 4/25/2019 15:58",
+		"searchEngine:" : "ShoYoshida 4/3/2016 11:15",
+		"screenHeight:" : "ShoYoshida 4/2/2016 16:47",
 		"screenWidth:" : "ShoYoshida 4/2/2016 16:47",
-		"currentUrl:" : "ShoYoshida 4/2/2016 16:47"
+		"os:" : "ShoYoshida 4/2/2016 16:46",
+		"ip:" : "MasashiUmezawa 4/25/2019 15:58",
+		"country:" : "ShoYoshida 4/3/2016 11:14",
+		"referrer:" : "ShoYoshida 4/2/2016 16:46",
+		"currentUrl:" : "ShoYoshida 4/2/2016 16:47",
+		"distinctId:" : "MasashiUmezawa 4/25/2019 15:58",
+		"ip" : "MasashiUmezawa 4/25/2019 15:58"
 	},
 	"class" : { }
 }
