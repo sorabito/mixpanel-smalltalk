@@ -1,3 +1,3 @@
 accessing
 prop: propName
-	self accessor: propName
+	^ self class of: self identifier prop: propName

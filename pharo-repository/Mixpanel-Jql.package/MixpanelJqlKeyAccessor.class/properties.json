@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MixpanelJqlAccessor",
+	"category" : "Mixpanel-Jql",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MixpanelJqlKeyAccessor",
+	"type" : "normal"
+}

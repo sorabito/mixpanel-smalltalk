@@ -1,0 +1,3 @@
+private
+shouldEscapeItem: anAccessorItem
+	^ false
