@@ -1,8 +1,10 @@
 {
 	"instance" : {
-		"defaultProperties" : "MasashiUmezawa 4/24/2019 15:51",
 		"people" : "MasashiUmezawa 4/24/2019 15:49",
-		"resourceUrl" : "ShoYoshida 4/2/2016 14:04"
+		"resourceUrl" : "ShoYoshida 4/2/2016 14:04",
+		"defaultProperties" : "MasashiUmezawa 4/24/2019 15:51",
+		"alias:" : "MasashiUmezawa 5/8/2019 16:43",
+		"alias:from:" : "MasashiUmezawa 5/8/2019 17:23"
 	},
 	"class" : { }
 }
