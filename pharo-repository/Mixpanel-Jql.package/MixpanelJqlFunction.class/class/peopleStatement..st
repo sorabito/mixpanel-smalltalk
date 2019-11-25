@@ -1,3 +1,3 @@
 instance creation-shortcuts
-peopleSatement: statement
+peopleStatement: statement
 	^self argument: 'people' statement: statement
