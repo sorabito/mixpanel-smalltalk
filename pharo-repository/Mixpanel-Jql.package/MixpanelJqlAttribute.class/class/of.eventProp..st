@@ -1,6 +1,6 @@
 instance creation
 of: identifier eventProp: anObject
 	| inst |
-	inst := self of: identifier asMixpanelJqlObject.
+	inst := self identifier: identifier asMixpanelJqlObject.
 	inst  value: (MixpanelJqlProperties eventProp: anObject).
 	^inst
