@@ -11,13 +11,13 @@
 	},
 	"class" : {
 		"argument:statement:" : "MasashiUmezawa 4/9/2019 15:27",
-		"eventSatement:" : "MasashiUmezawa 5/7/2019 09:46",
-		"peopleSatement:" : "MasashiUmezawa 5/7/2019 09:49",
+		"tupleStatement:" : "KazunoriUeda 11/25/2019 18:03",
+		"peopleStatement:" : "KazunoriUeda 11/25/2019 18:03",
 		"name:" : "MasashiUmezawa 4/9/2019 15:25",
+		"eventStatement:" : "KazunoriUeda 11/25/2019 18:04",
 		"arguments:" : "MasashiUmezawa 4/9/2019 15:26",
-		"tupleSatement:" : "MasashiUmezawa 5/7/2019 09:47",
-		"name:arguments:" : "MasashiUmezawa 4/9/2019 15:24",
 		"arguments:statements:" : "MasashiUmezawa 4/9/2019 15:30",
+		"name:arguments:" : "MasashiUmezawa 4/9/2019 15:24",
 		"name:arguments:statements:" : "KazunoriUeda 4/16/2019 17:27",
 		"name:statements:" : "MasashiUmezawa 4/9/2019 15:24"
 	}

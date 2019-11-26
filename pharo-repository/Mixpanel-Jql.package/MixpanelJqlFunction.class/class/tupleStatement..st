@@ -1,3 +1,3 @@
 instance creation-shortcuts
-tupleSatement: statement
+tupleStatement: statement
 	^self argument: 'tuple' statement: statement
