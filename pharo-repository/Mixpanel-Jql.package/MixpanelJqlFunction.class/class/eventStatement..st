@@ -1,3 +1,3 @@
 instance creation-shortcuts
-eventSatement: statement
+eventStatement: statement
 	^self argument: 'event' statement: statement
