@@ -4,4 +4,5 @@ leftOperand: leftOperand operator: operator rightOperand: rightOperand
 		leftOperand: leftOperand;
 		operator: operator;
 		rightOperand: rightOperand;
+		noRightOperand: false;
 		yourself
