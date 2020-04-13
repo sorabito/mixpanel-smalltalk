@@ -8,8 +8,7 @@
 	"instvars" : [
 		"leftOperand",
 		"operator",
-		"rightOperand",
-		"noRightOperand"
+		"rightOperand"
 	],
 	"name" : "MixpanelJqlPredicate",
 	"type" : "normal"

@@ -1,11 +1,9 @@
 {
 	"instance" : {
-		"isNotUndefined" : "HiroyukiTakano 4/9/2020 18:18",
-		"createPredicate:rightOperand:" : "MasashiUmezawa 4/25/2019 13:51",
 		"||" : "MasashiUmezawa 4/25/2019 14:22",
+		"createPredicate:rightOperand:" : "MasashiUmezawa 4/25/2019 13:51",
 		"===" : "MasashiUmezawa 4/25/2019 12:26",
 		"tokensAccessorOn:" : "MasashiUmezawa 4/25/2019 11:31",
-		"createPredicate:" : "HiroyukiTakano 4/9/2020 18:18",
 		">" : "MasashiUmezawa 4/25/2019 12:29",
 		"<" : "MasashiUmezawa 4/25/2019 12:29",
 		"<=" : "MasashiUmezawa 4/25/2019 12:29",
@@ -15,7 +13,6 @@
 		"-->" : "MasashiUmezawa 4/25/2019 11:33",
 		"notEquals:" : "MasashiUmezawa 4/25/2019 12:26",
 		"identifier:" : "KazunoriUeda 4/16/2019 17:23",
-		"isUndefined" : "HiroyukiTakano 4/9/2020 18:18",
 		"accessor:" : "MasashiUmezawa 4/25/2019 11:35",
 		"asMixpanelJqlIdentifierString" : "KazunoriUeda 4/16/2019 17:31",
 		"tokensOn:" : "KazunoriUeda 4/16/2019 17:31",
