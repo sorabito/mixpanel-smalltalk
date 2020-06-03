@@ -1,9 +1,10 @@
 {
 	"instance" : {
-		"||" : "MasashiUmezawa 4/25/2019 14:22",
 		"createPredicate:rightOperand:" : "MasashiUmezawa 4/25/2019 13:51",
+		"isMixpanelJqlIdentifier" : "KazunoriUeda 6/2/2020 18:13",
 		"===" : "MasashiUmezawa 4/25/2019 12:26",
 		"tokensAccessorOn:" : "MasashiUmezawa 4/25/2019 11:31",
+		"||" : "MasashiUmezawa 4/25/2019 14:22",
 		">" : "MasashiUmezawa 4/25/2019 12:29",
 		"<" : "MasashiUmezawa 4/25/2019 12:29",
 		"<=" : "MasashiUmezawa 4/25/2019 12:29",
